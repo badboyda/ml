@@ -1,0 +1,5 @@
+R first download install
+wbsite->https://cran.rstudio.com/
+R studio download install
+wbsite->https://posit.co/download/rstudio-desktop/
+go to c folder->Program Files->R studio->r studio application(create shortcut)

@@ -1,0 +1,14 @@
+PYTHON INSTALL SETUP
+ WEBSITE->https://www.python.org/downloads/windows/
+----------------------------------------------------------------------------------
+its follows only 10,11,12 programs
+
+python install first
+users->computer->APPDATA->LOCAL->PYTHON->PYTHON310->SCRIPTS->TYPE CMD
+--------------------------------------------------------
+AppDATA NOT shown follow the steps:
+C:\Users\cricket(your name on the folder)
+*now go to click (view) after click hidden items tick the box 
+-----------------------------------------------------------------------------
+pip install jupyter
+jupyter notebook

@@ -1,0 +1,55 @@
+*go to install in this file on pkg
+stats <-install after  ****tick on box*** packages side
+dplyr <-install after ***tick on box*** packages side
+------------------------------------------------------------------------------------
+mydata = iris
+str(mydata)
+SL = mydata$Sepal.Length
+mean(SL)
+median(SL)
+mode(SL)
+sd(SL)
+var(SL)
+quantile(SL)
+str(mydata)
+Species = mydata$Species
+hist(SL)
+table(Species)
+barplot(table(Species))
+str(mydata)
+mydata_numeric = select(mydata,c(1,2,3,4))
+zscore_mydata = scale(mydata_numeric)
+View(zscore_mydata)
+
+--------------------------------------------------------
+UNIVARIATE ANALYSIS
+
+1. Data Summarization
+mydata = iris
+str(mydata)
+SL = mydata$Sepal.Length
+mean(SL)
+median(SL)
+mode(SL)
+sd(SL)
+var(SL)
+quantile(SL)
+----------------------------------------------------------------------------
+BIVARIATE ANALYSIS
+
+2. Data Visualization
+str(mydata)
+Species = mydata$Species
+hist(SL)
+table(Species)
+barplot(table(Species))
+-----------------------------------------------------------------------------------
+MULTIVARIATE ANALYSIS 
+
+3. Data Normalization
+
+str(mydata)
+mydata_numeric = select(mydata,c(1,2,3,4))
+zscore_mydata = scale(mydata_numeric)
+View(zscore_mydata)
+----------------------------------------------------------------------------------
