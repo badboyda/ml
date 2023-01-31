@@ -73,6 +73,10 @@ python install first
 users->computer->APPDATA->LOCAL->PYTHON->PYTHON310->SCRIPTS->TYPE CMD
 pip install jupyter
 jupyter notebook
+
+pip install matplotlib
+pip install scikit-learn
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxCONDITIONSxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
